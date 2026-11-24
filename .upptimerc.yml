@@ -8,9 +8,9 @@ sites:
   - name: Web EMR
     url: https://nywrchapp.ecwcloud.com/mobiledoc/jsp/webemr/login/newLogin.jsp
 
-# Check every 15 minutes to conserve GitHub Actions minutes on a private repo
+# Check every 5 minutes (public repo, so GitHub Actions minutes are free)
 workflowSchedule:
-  uptime: "*/15 * * * *"
+  uptime: "*/5 * * * *"
 
 status-website:
   # No custom domain yet: site is served at ryan-health.github.io/ryanhealth-statuspage
