@@ -21,6 +21,8 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Microsoft 365 Status
+      href: https://status.cloud.microsoft/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
