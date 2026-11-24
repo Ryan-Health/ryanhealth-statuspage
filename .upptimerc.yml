@@ -23,6 +23,8 @@ status-website:
       href: /
     - title: Microsoft 365 Status
       href: https://status.cloud.microsoft/
+    - title: TeamSense Status
+      href: https://status.teamsense.com/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
