@@ -22,17 +22,17 @@
     "url": "https://nywrchapp.ecwcloud.com/mobiledoc/jsp/webemr/login/newLogin.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/nywrchapp.ecwcloud.com.ico",
     "slug": "web-emr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 148,
-    "timeDay": 139,
-    "timeWeek": 148,
-    "timeMonth": 148,
-    "timeYear": 148,
+    "time": 142,
+    "timeDay": 121,
+    "timeWeek": 142,
+    "timeMonth": 142,
+    "timeYear": 142,
     "dailyMinutesDown": {}
   }
 ]
