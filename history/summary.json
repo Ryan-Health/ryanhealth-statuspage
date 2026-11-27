@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 113,
-    "timeDay": 98,
-    "timeWeek": 113,
-    "timeMonth": 113,
-    "timeYear": 113,
+    "time": 126,
+    "timeDay": 164,
+    "timeWeek": 126,
+    "timeMonth": 126,
+    "timeYear": 126,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,20 @@
     "url": "https://nywrchapp.ecwcloud.com/mobiledoc/jsp/webemr/login/newLogin.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/nywrchapp.ecwcloud.com.ico",
     "slug": "web-emr",
-    "status": "down",
-    "uptime": "99.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.52%",
-    "time": 138,
-    "timeDay": 188,
-    "timeWeek": 138,
-    "timeMonth": 138,
-    "timeYear": 138,
+    "status": "up",
+    "uptime": "99.43%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.43%",
+    "time": 145,
+    "timeDay": 204,
+    "timeWeek": 145,
+    "timeMonth": 145,
+    "timeYear": 145,
     "dailyMinutesDown": {
-      "2026-11-26": 22
+      "2026-11-26": 22,
+      "2026-11-27": 4
     }
   }
 ]
